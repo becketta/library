@@ -1,0 +1,13 @@
+
+Sorting algorithm properties:
+
+STABLITY:
+	Stable sorting algorithms maintain the relative order of records with equal keys.
+
+ADAPTABILITY:
+	Whether or not the presortedness of the input affects the running time.
+	Algorithms with improved runtime on presorted inputs are known to be adaptive.
+
+ONLINE:
+	An online sorting algorithm can sort input as it receives it. In other words, it
+	doesn't need all the input before it can start sorting.
